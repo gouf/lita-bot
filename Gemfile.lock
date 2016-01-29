@@ -1,4 +1,11 @@
 GIT
+  remote: git://github.com/gouf/lita-omikuji.git
+  revision: e18560607d0161cab196153c934f393c5bdc3b78
+  specs:
+    lita-omikuji (0.0.1)
+      lita (>= 4.0)
+
+GIT
   remote: git://github.com/gouf/lita-weather.git
   revision: cf6183c928f07f5b14e73db004e44a7729363b65
   specs:
@@ -82,6 +89,7 @@ PLATFORMS
 
 DEPENDENCIES
   lita
+  lita-omikuji!
   lita-slack
   lita-weather!
 
