@@ -13,3 +13,4 @@ gem "lita"
 # gem "lita-google-images"
 # gem "lita-karma"
 gem 'lita-slack'
+gem 'lita-weather', github: 'gouf/lita-weather'
