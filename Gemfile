@@ -1,5 +1,7 @@
 source "https://rubygems.org"
 
+ruby '2.3.0'
+
 gem "lita"
 
 # Uncomment to use the HipChat adapter
@@ -12,3 +14,5 @@ gem "lita"
 # For example:
 # gem "lita-google-images"
 # gem "lita-karma"
+gem 'lita-slack'
+gem 'lita-weather', github: 'gouf/lita-weather'
