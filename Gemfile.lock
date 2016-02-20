@@ -7,9 +7,9 @@ GIT
 
 GIT
   remote: git://github.com/gouf/lita-weather.git
-  revision: 92a923069e2c163b95dec4060c56f191944240bf
+  revision: ad46e4e74c8afe3896baddf656d362b0a40383f0
   specs:
-    lita-weather (0.1.1)
+    lita-weather (0.1.2)
       lita (>= 4.7)
       mechanize
 
