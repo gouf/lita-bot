@@ -1,4 +1,12 @@
 GIT
+  remote: git://github.com/gouf/lita-amazon_jp_search.git
+  revision: 5a0c2d2395f5277125c4f5e1225b11d64348eee0
+  specs:
+    lita-amazon_jp_search (0.1.0)
+      lita (>= 4.7)
+      mechanize
+
+GIT
   remote: git://github.com/gouf/lita-omikuji.git
   revision: e18560607d0161cab196153c934f393c5bdc3b78
   specs:
@@ -89,6 +97,7 @@ PLATFORMS
 
 DEPENDENCIES
   lita
+  lita-amazon_jp_search!
   lita-omikuji!
   lita-slack
   lita-weather!
