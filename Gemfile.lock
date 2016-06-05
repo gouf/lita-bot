@@ -1,8 +1,8 @@
 GIT
   remote: git://github.com/gouf/lita-amazon_jp_search.git
-  revision: 5a0c2d2395f5277125c4f5e1225b11d64348eee0
+  revision: 823d6818c95eda212bc13436d281d62e95571945
   specs:
-    lita-amazon_jp_search (0.1.0)
+    lita-amazon_jp_search (0.1.1)
       lita (>= 4.7)
       mechanize
 
