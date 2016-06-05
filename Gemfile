@@ -17,3 +17,4 @@ gem "lita"
 gem 'lita-slack'
 gem 'lita-weather', github: 'gouf/lita-weather'
 gem 'lita-omikuji', github: 'gouf/lita-omikuji'
+gem 'lita-amazon_jp_search', github: 'gouf/lita-amazon_jp_search'
