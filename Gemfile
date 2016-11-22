@@ -1,6 +1,6 @@
 source "https://rubygems.org"
 
-ruby '2.3.0'
+ruby '2.3.1'
 
 gem "lita"
 
@@ -15,5 +15,6 @@ gem "lita"
 # gem "lita-google-images"
 # gem "lita-karma"
 gem 'lita-slack'
-gem 'lita-weather', github: 'gouf/lita-weather'
-gem 'lita-omikuji', github: 'gouf/lita-omikuji'
+gem 'lita-weather', git: 'https://github.com/gouf/lita-weather'
+gem 'lita-omikuji', git: 'https://github.com/gouf/lita-omikuji'
+gem 'lita-random_name', git: 'https://github.com/gouf/lita-random_name'
