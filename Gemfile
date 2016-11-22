@@ -17,3 +17,4 @@ gem "lita"
 gem 'lita-slack'
 gem 'lita-weather', git: 'https://github.com/gouf/lita-weather'
 gem 'lita-omikuji', git: 'https://github.com/gouf/lita-omikuji'
+gem 'lita-random_name', git: 'https://github.com/gouf/lita-random_name'
