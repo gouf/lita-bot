@@ -15,5 +15,5 @@ gem "lita"
 # gem "lita-google-images"
 # gem "lita-karma"
 gem 'lita-slack'
-gem 'lita-weather', github: 'gouf/lita-weather'
-gem 'lita-omikuji', github: 'gouf/lita-omikuji'
+gem 'lita-weather', git: 'https://github.com/gouf/lita-weather'
+gem 'lita-omikuji', git: 'https://github.com/gouf/lita-omikuji'
