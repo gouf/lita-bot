@@ -4,6 +4,8 @@ ruby '2.3.1'
 
 gem "lita"
 
+gem 'rake'
+
 # Uncomment to use the HipChat adapter
 # gem "lita-hipchat"
 

@@ -99,6 +99,7 @@ GEM
     ntlm-http (0.1.1)
     puma (3.6.2)
     rack (1.6.5)
+    rake (12.0.0)
     randexp (0.1.7)
     rb-readline (0.5.3)
     redis (3.3.2)
@@ -126,6 +127,7 @@ DEPENDENCIES
   lita-random_name!
   lita-slack
   lita-weather!
+  rake
 
 RUBY VERSION
    ruby 2.3.1p112
