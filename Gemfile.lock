@@ -21,6 +21,13 @@ GIT
       lita (>= 4.0)
 
 GIT
+  remote: https://github.com/gouf/lita-parrot
+  revision: c50f58f49389e88b6c559aaead107d7d158b5427
+  specs:
+    lita-parrot (0.1.0)
+      lita (>= 4.7)
+
+GIT
   remote: https://github.com/gouf/lita-random_name
   revision: 9072eaab6d003f6816078b7036c978e40bd69abd
   specs:
@@ -138,6 +145,7 @@ DEPENDENCIES
   lita-amazon_jp_search!
   lita-lottery!
   lita-omikuji!
+  lita-parrot!
   lita-random_name!
   lita-slack
   lita-weather!
