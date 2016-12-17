@@ -22,7 +22,7 @@ GIT
 
 GIT
   remote: https://github.com/gouf/lita-parrot
-  revision: a496179de334f53a6a3fc45abc1e22e73def4723
+  revision: 82c2f2d3a355f1b813e70defa7d9330f39eeaedc
   branch: develop
   specs:
     lita-parrot (0.1.2)
