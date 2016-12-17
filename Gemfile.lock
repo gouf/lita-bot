@@ -8,7 +8,7 @@ GIT
 
 GIT
   remote: https://github.com/gouf/lita-lottery
-  revision: 5d86e4303ea16e9321af291288bc5a09c2670bee
+  revision: 5b959b2c5ad7476e64fe92af6fb16a225b1b8569
   specs:
     lita-lottery (0.1.0)
       lita (>= 4.7)
@@ -22,9 +22,9 @@ GIT
 
 GIT
   remote: https://github.com/gouf/lita-parrot
-  revision: c50f58f49389e88b6c559aaead107d7d158b5427
+  revision: 992fdc2a49a0e4e190098acbb165461f1ee51bcf
   specs:
-    lita-parrot (0.1.0)
+    lita-parrot (0.1.1)
       lita (>= 4.7)
 
 GIT
