@@ -14,6 +14,15 @@ GIT
       lita (>= 4.7)
 
 GIT
+  remote: https://github.com/gouf/lita-ofuton
+  revision: 97e2716164744a0f155a91b82c41bd6bf7628e57
+  specs:
+    lita-ofuton (0.1.0)
+      lita (>= 4.7)
+      mechanize
+      slack-ruby-client
+
+GIT
   remote: https://github.com/gouf/lita-omikuji
   revision: e18560607d0161cab196153c934f393c5bdc3b78
   specs:
@@ -168,6 +177,7 @@ DEPENDENCIES
   lita
   lita-amazon_jp_search!
   lita-lottery!
+  lita-ofuton!
   lita-omikuji!
   lita-parrot!
   lita-random_name!
