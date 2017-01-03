@@ -15,7 +15,7 @@ GIT
 
 GIT
   remote: https://github.com/gouf/lita-ofuton
-  revision: 97e2716164744a0f155a91b82c41bd6bf7628e57
+  revision: 4c59e16388677dcbd8649daefee2cd361dddc0fe
   specs:
     lita-ofuton (0.1.0)
       lita (>= 4.7)
@@ -31,7 +31,7 @@ GIT
 
 GIT
   remote: https://github.com/gouf/lita-parrot
-  revision: 82c2f2d3a355f1b813e70defa7d9330f39eeaedc
+  revision: aba3b5489dc47dbe1c39846a9bbba68c9de3875c
   specs:
     lita-parrot (0.1.2)
       lita (>= 4.7)
@@ -58,19 +58,19 @@ GIT
 GEM
   remote: https://rubygems.org/
   specs:
-    activesupport (5.0.0.1)
+    activesupport (5.0.1)
       concurrent-ruby (~> 1.0, >= 1.0.2)
       i18n (~> 0.7)
       minitest (~> 5.1)
       tzinfo (~> 1.1)
-    concurrent-ruby (1.0.2)
+    concurrent-ruby (1.0.4)
     diff-lcs (1.2.5)
     domain_name (0.5.20161129)
       unf (>= 0.0.5, < 1.0.0)
     eventmachine (1.2.1)
-    faker (1.6.6)
+    faker (1.7.1)
       i18n (~> 0.5)
-    faraday (0.10.0)
+    faraday (0.10.1)
       multipart-post (>= 1.2, < 3)
     faraday_middleware (0.10.1)
       faraday (>= 0.7.4, < 1.0)
@@ -124,7 +124,7 @@ GEM
     multipart-post (2.0.0)
     net-http-digest_auth (1.4)
     net-http-persistent (2.9.4)
-    nokogiri (1.6.8.1)
+    nokogiri (1.7.0)
       mini_portile2 (~> 2.1.0)
     ntlm-http (0.1.1)
     puma (3.6.2)
@@ -185,9 +185,6 @@ DEPENDENCIES
   lita-weather!
   rake
   rspec
-
-RUBY VERSION
-   ruby 2.3.1p112
 
 BUNDLED WITH
    1.13.6
