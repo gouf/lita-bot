@@ -127,12 +127,12 @@ GEM
     nokogiri (1.7.0.1)
       mini_portile2 (~> 2.1.0)
     ntlm-http (0.1.1)
-    puma (3.6.2)
+    puma (3.7.0)
     rack (1.6.5)
     rake (12.0.0)
     randexp (0.1.7)
     rb-readline (0.5.3)
-    redis (3.3.2)
+    redis (3.3.3)
     redis-namespace (1.5.2)
       redis (~> 3.0, >= 3.0.4)
     rspec (3.5.0)
@@ -148,9 +148,9 @@ GEM
       diff-lcs (>= 1.2.0, < 2.0)
       rspec-support (~> 3.5.0)
     rspec-support (3.5.0)
-    slack-ruby-client (0.7.7)
+    slack-ruby-client (0.7.8)
       activesupport
-      faraday
+      faraday (>= 0.9)
       faraday_middleware
       gli
       hashie
