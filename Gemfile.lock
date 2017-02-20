@@ -133,7 +133,7 @@ GEM
     randexp (0.1.7)
     rb-readline (0.5.4)
     redis (3.3.3)
-    redis-namespace (1.5.2)
+    redis-namespace (1.5.3)
       redis (~> 3.0, >= 3.0.4)
     rspec (3.5.0)
       rspec-core (~> 3.5.0)
