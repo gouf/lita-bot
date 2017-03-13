@@ -127,7 +127,7 @@ GEM
     nokogiri (1.7.0.1)
       mini_portile2 (~> 2.1.0)
     ntlm-http (0.1.1)
-    puma (3.7.1)
+    puma (3.8.1)
     rack (1.6.5)
     rake (12.0.0)
     randexp (0.1.7)
@@ -148,7 +148,7 @@ GEM
       diff-lcs (>= 1.2.0, < 2.0)
       rspec-support (~> 3.5.0)
     rspec-support (3.5.0)
-    slack-ruby-client (0.7.9)
+    slack-ruby-client (0.8.0)
       activesupport
       faraday (>= 0.9)
       faraday_middleware
