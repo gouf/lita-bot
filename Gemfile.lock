@@ -48,6 +48,14 @@ GIT
       randexp
 
 GIT
+  remote: https://github.com/gouf/lita-usagiga
+  revision: a4a70908b8a7ae4be7483a471520460597c8cb29
+  specs:
+    lita-usagiga (0.1.0)
+      lita (>= 4.7)
+      mechanize
+
+GIT
   remote: https://github.com/gouf/lita-weather
   revision: ad46e4e74c8afe3896baddf656d362b0a40383f0
   specs:
@@ -182,9 +190,13 @@ DEPENDENCIES
   lita-parrot!
   lita-random_name!
   lita-slack
+  lita-usagiga!
   lita-weather!
   rake
   rspec
+
+RUBY VERSION
+   ruby 2.3.1p112
 
 BUNDLED WITH
    1.13.6

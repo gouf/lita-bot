@@ -25,3 +25,4 @@ gem 'lita-amazon_jp_search', git: 'https://github.com/gouf/lita-amazon_jp_search
 gem 'lita-lottery', git: 'https://github.com/gouf/lita-lottery'
 gem 'lita-parrot', git: 'https://github.com/gouf/lita-parrot'
 gem 'lita-ofuton', git: 'https://github.com/gouf/lita-ofuton'
+gem 'lita-usagiga', git: 'https://github.com/gouf/lita-usagiga'
