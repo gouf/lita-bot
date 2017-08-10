@@ -63,6 +63,14 @@ GIT
       lita (>= 4.7)
       mechanize
 
+GIT
+  remote: https://github.com/gouf/lita-yaruki
+  revision: 62de83b8798d28fc3efe7545b3aecd06c00d9c2c
+  specs:
+    lita-yaruki (0.1.0)
+      lita (>= 4.7)
+      mechanize
+
 GEM
   remote: https://rubygems.org/
   specs:
@@ -192,8 +200,12 @@ DEPENDENCIES
   lita-slack
   lita-usagiga!
   lita-weather!
+  lita-yaruki!
   rake
   rspec
 
+RUBY VERSION
+   ruby 2.3.1p112
+
 BUNDLED WITH
-   1.13.6
+   1.15.3
