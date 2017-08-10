@@ -65,11 +65,12 @@ GIT
 
 GIT
   remote: https://github.com/gouf/lita-yaruki
-  revision: cb1182866e595fe3ded679fc6ee7fe777e0cbd7e
+  revision: fb1b84f7023980b22f2b96e7eeb99b6b55afab39
   specs:
     lita-yaruki (0.1.0)
       lita (>= 4.7)
       mechanize
+      slack-ruby-client
 
 GEM
   remote: https://rubygems.org/
