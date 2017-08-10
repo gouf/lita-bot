@@ -65,7 +65,7 @@ GIT
 
 GIT
   remote: https://github.com/gouf/lita-yaruki
-  revision: 62de83b8798d28fc3efe7545b3aecd06c00d9c2c
+  revision: cb1182866e595fe3ded679fc6ee7fe777e0cbd7e
   specs:
     lita-yaruki (0.1.0)
       lita (>= 4.7)
