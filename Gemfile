@@ -7,6 +7,7 @@ gem "lita"
 gem 'rake'
 gem 'rspec'
 
+gem 'shindan', github: 'gouf/shindan'
 # Uncomment to use the HipChat adapter
 # gem "lita-hipchat"
 
