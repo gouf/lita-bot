@@ -1,4 +1,11 @@
 GIT
+  remote: git://github.com/gouf/shindan.git
+  revision: 041eb5e6c3e6bfe9583fe7b5c6e3682f8e450fcd
+  specs:
+    shindan (0.1.0)
+      mechanize
+
+GIT
   remote: https://github.com/gouf/lita-amazon_jp_search
   revision: 7508655201329fb7959c553af44e3787759c3fb3
   specs:
@@ -65,11 +72,11 @@ GIT
 
 GIT
   remote: https://github.com/gouf/lita-yaruki
-  revision: fb1b84f7023980b22f2b96e7eeb99b6b55afab39
+  revision: 1131562f6282b95c954c1bb51d6f4f3c9b135ad1
   specs:
     lita-yaruki (0.1.0)
       lita (>= 4.7)
-      mechanize
+      shindan
       slack-ruby-client
 
 GEM
@@ -204,6 +211,10 @@ DEPENDENCIES
   lita-yaruki!
   rake
   rspec
+  shindan!
+
+RUBY VERSION
+   ruby 2.3.1p112
 
 BUNDLED WITH
    1.15.3
