@@ -74,7 +74,7 @@ GIT
 
 GIT
   remote: https://github.com/gouf/shindan
-  revision: 041eb5e6c3e6bfe9583fe7b5c6e3682f8e450fcd
+  revision: fe9379ca8dffb9de762e686d620c9e1a42571a58
   specs:
     shindan (0.1.0)
       mechanize
@@ -212,9 +212,6 @@ DEPENDENCIES
   rake
   rspec
   shindan!
-
-RUBY VERSION
-   ruby 2.3.1p112
 
 BUNDLED WITH
    1.15.3
