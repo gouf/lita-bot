@@ -74,7 +74,7 @@ GIT
 
 GIT
   remote: https://github.com/gouf/shindan
-  revision: fe9379ca8dffb9de762e686d620c9e1a42571a58
+  revision: 067ea7d29bf018c794e12be550077ad7ed8f09f4
   specs:
     shindan (0.1.0)
       mechanize
@@ -144,7 +144,7 @@ GEM
     mime-types-data (3.2016.0521)
     mini_portile2 (2.3.0)
     minitest (5.11.1)
-    multi_json (1.12.2)
+    multi_json (1.13.0)
     multipart-post (2.0.0)
     net-http-digest_auth (1.4.1)
     net-http-persistent (2.9.4)
