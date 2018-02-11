@@ -48,6 +48,13 @@ GIT
       randexp
 
 GIT
+  remote: https://github.com/gouf/lita-respect_tables
+  revision: 1aef00a1f296bf199bac71e05f3398709f2c2c2b
+  specs:
+    lita-respect_tables (0.1.0)
+      lita (>= 4.7)
+
+GIT
   remote: https://github.com/gouf/lita-usagiga
   revision: a4a70908b8a7ae4be7483a471520460597c8cb29
   specs:
@@ -204,6 +211,7 @@ DEPENDENCIES
   lita-omikuji!
   lita-parrot!
   lita-random_name!
+  lita-respect_tables!
   lita-slack
   lita-usagiga!
   lita-weather!
@@ -212,5 +220,8 @@ DEPENDENCIES
   rspec
   shindan!
 
+RUBY VERSION
+   ruby 2.4.3p205
+
 BUNDLED WITH
-   1.15.3
+   1.16.1
