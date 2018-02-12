@@ -1,12 +1,4 @@
 GIT
-  remote: https://github.com/gouf/lita-amazon_jp_search
-  revision: 7508655201329fb7959c553af44e3787759c3fb3
-  specs:
-    lita-amazon_jp_search (0.1.2)
-      lita (>= 4.7)
-      mechanize
-
-GIT
   remote: https://github.com/gouf/lita-lottery
   revision: 5b959b2c5ad7476e64fe92af6fb16a225b1b8569
   specs:
@@ -205,7 +197,6 @@ PLATFORMS
 
 DEPENDENCIES
   lita
-  lita-amazon_jp_search!
   lita-lottery!
   lita-ofuton!
   lita-omikuji!
