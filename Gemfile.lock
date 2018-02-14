@@ -108,7 +108,7 @@ GEM
     http_router (0.11.2)
       rack (>= 1.0.0)
       url_mount (~> 0.2.1)
-    i18n (0.9.3)
+    i18n (0.9.5)
       concurrent-ruby (~> 1.0)
     ice_nine (0.11.2)
     lita (4.7.1)
@@ -210,9 +210,6 @@ DEPENDENCIES
   rake
   rspec
   shindan!
-
-RUBY VERSION
-   ruby 2.4.3p205
 
 BUNDLED WITH
    1.16.1
