@@ -152,7 +152,7 @@ GEM
     ntlm-http (0.1.1)
     puma (3.11.3)
     rack (1.6.9)
-    rake (12.3.0)
+    rake (12.3.1)
     randexp (0.1.7)
     rb-readline (0.5.5)
     redis (4.0.1)
@@ -210,9 +210,6 @@ DEPENDENCIES
   rake
   rspec
   shindan!
-
-RUBY VERSION
-   ruby 2.4.3p205
 
 BUNDLED WITH
    1.16.1
