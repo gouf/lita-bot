@@ -17,6 +17,7 @@ gem 'rspec'
 # For example:
 # gem "lita-google-images"
 # gem "lita-karma"
+gem 'lita-balloon_suddenly_death', git: 'https://github.com/gouf/lita-balloon_suddenly_death'
 gem 'lita-lottery', git: 'https://github.com/gouf/lita-lottery'
 gem 'lita-ofuton', git: 'https://github.com/gouf/lita-ofuton'
 gem 'lita-omikuji', git: 'https://github.com/gouf/lita-omikuji'
