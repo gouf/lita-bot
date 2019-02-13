@@ -1,4 +1,11 @@
 GIT
+  remote: https://github.com/gouf/lita-ebifurai
+  revision: 9d1e37b40eebc009c2112c5133ea2b82a311d526
+  specs:
+    lita-ebifurai (0.1.0)
+      lita (>= 4.7)
+
+GIT
   remote: https://github.com/gouf/lita-lottery
   revision: 5b959b2c5ad7476e64fe92af6fb16a225b1b8569
   specs:
@@ -199,6 +206,7 @@ PLATFORMS
 
 DEPENDENCIES
   lita
+  lita-ebifurai!
   lita-lottery!
   lita-ofuton!
   lita-omikuji!
@@ -213,5 +221,8 @@ DEPENDENCIES
   rspec
   shindan!
 
+RUBY VERSION
+   ruby 2.6.1p33
+
 BUNDLED WITH
-   1.16.3
+   1.17.2

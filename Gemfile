@@ -1,6 +1,6 @@
 source "https://rubygems.org"
 
-ruby '2.4.4'
+ruby '2.6.1'
 
 gem "lita"
 
@@ -27,4 +27,5 @@ gem 'lita-slack'
 gem 'lita-usagiga', git: 'https://github.com/gouf/lita-usagiga'
 gem 'lita-weather', git: 'https://github.com/gouf/lita-weather'
 gem 'lita-yaruki', git: 'https://github.com/gouf/lita-yaruki'
+gem 'lita-ebifurai', git: 'https://github.com/gouf/lita-ebifurai'
 gem 'shindan', git: 'https://github.com/gouf/shindan'
